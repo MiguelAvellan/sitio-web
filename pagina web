@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>mi primer sitio web</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <h1>MI PRIMER SITIO WEB.</h1>
+    <p>Hola este es mi primer sitio web espero y te guste</p>
+    <h2>A CONTINUACION TE MOSTRARE UNA PEQUEÑA CONVERSACION</h2>
+             <ul>
+                   <li>PERSONA1:Has visto al perro</li>
+                   <li>PERSONA2:Si esta jugando con una sandia</li>
+                   <li>PERSONA1:Que? eso podria ser peligroso si se come las semillas le crecera una planta en el estomago!!</li>
+                   <li>PERSONA1:Ademas donde esta el perro</li>
+                   <li>PERSONA2:Aqui esta se lo ve muy contento :D</li>
+             </ul>
+     <img src="imagen.jpg" alt="Image 1">
+     
+</body>
+</html>
